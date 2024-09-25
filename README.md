@@ -1,2 +1,2 @@
 # South-Korea-export-forecast
-Forecasting 36 months of South Korea's net export
+Seasonality analysis project, Forecasting 36 months of South Korea's net export
